@@ -16,4 +16,4 @@ python -m textblob.download_corpora
 
 #Fuzzywuzzy
 git clone https://github.com/seatgeek/fuzzywuzzy
-
+python3 setup.py install
